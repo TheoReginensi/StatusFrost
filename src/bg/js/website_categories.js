@@ -47,7 +47,19 @@ const WEBSITE_CATEGORIES = {
         "*.neoseeker.com"
     ],
     entertainment: [
-        "*.netflix.com"
+        "*.netflix.com",
+        "*youtube.com",
+        "*imdb.com",
+        "*vimeo.com",
+        "*canalplus.fr",
+        "*tv5monde.com",
+        "*newyorker.com",
+        "*nytimes.com",
+        "*cnn.com",
+        "*go.com",
+        "*abc.go.com",
+        "*hulu.com",
+        "*hbo.com"
     ],
     commerce: [
         "*.paypal.com",
@@ -59,6 +71,7 @@ const WEBSITE_CATEGORIES = {
     adult: [
         "*.pornhub.com",
         "*.xhamster.com",
-        "*.xvideos.com"
+        "*.xvideos.com",
+        "*.porn.com"
     ]
 }
